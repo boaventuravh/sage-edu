@@ -30,7 +30,7 @@ echo "🐍 Install Python + Config Virtualenv"
 sudo apt install -y python3 python3-venv python3-pip
 
 cd ~
-#python3 -m venv sage_education
+python3 -m venv sage_education
 cd ~/sage_education
 source ./bin/activate
 
